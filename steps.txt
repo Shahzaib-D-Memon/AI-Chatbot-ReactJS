@@ -1,0 +1,11 @@
+AI Chatbot building:
+
+Steps and time:
+
+1. Make the complete project first (2 Hours)
+2. custom edit (1 hour)
+3. Add to resume (15 mins)
+4. Find a hosting method (15 mins)
+5. Add to github (15 mins)
+6. Add to website (15 mins)
+
