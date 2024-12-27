@@ -40,7 +40,7 @@ A sleek, responsive chatbot application built using ReactJS, with a dynamic user
 
 ## 🎨 Live Demo:
 - Click the following link:
-_[ReactJS AI Chatbot](https://shahzaibs-aichatbot.netlify.app/)_
+_[ReactJS AI Chatbot](https://shahzaibs-ai-chatbot.netlify.app/)_
 
 ## 📋 Prerequisites
 
